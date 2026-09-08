@@ -7,3 +7,6 @@ __pycache__/
 
 # Файл данных, создаваемый программой
 code/currency_rate.json
+
+# Архив проекта
+code.zip
